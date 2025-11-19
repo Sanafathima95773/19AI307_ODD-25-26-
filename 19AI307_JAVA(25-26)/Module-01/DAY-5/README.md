@@ -3,12 +3,6 @@
 ## QUESTION:
 Write a Java program to reverse a given string.
 
-Input	
-welcome
-Result
-Reversed string: emoclew
-
-
 
 
 ## AIM:
@@ -72,4 +66,5 @@ public class ReverseString {
 
 ## RESULT:
 Thus, the Java program to reverse a given string was executed successfully and the reversed output was obtained.
+
 
