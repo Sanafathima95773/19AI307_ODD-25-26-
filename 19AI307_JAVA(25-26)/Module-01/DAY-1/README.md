@@ -5,20 +5,6 @@ A shop keeper would like to welcome their customers with their name.
 
 Write a java program to get name from the user (String) and print it.
 
-Input Format:
-
-A single line string input.
-
-Output Format:
-
-Hello, [name]
-
-For example:
-
-Input	Result
-Ajeesh
-Hello, Ajeesh
-
 
 
 ## AIM:
@@ -52,6 +38,7 @@ RegisterNumber: 212223240145
 ```
 
 ## Sourcecode.java:
+```
 import java.util.Scanner;
 
 public class Main {
@@ -67,7 +54,7 @@ public class Main {
         sc.close();
     }
 } 
-
+```
 
 
 
@@ -82,4 +69,5 @@ public class Main {
 
 ## RESULT:
 The program successfully reads a name from the user and prints the message.
+
 
