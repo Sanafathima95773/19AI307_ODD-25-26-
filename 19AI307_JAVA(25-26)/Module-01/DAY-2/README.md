@@ -64,6 +64,7 @@ RegisterNumber:  212223240145
 ```
 
 ## SOURCE CODE:
+```
 import java.util.Scanner;
 public class Pirate{
     public static void main(String[] args){
@@ -88,7 +89,7 @@ public class Pirate{
     }
 }
 
-
+```
 
 
 
@@ -102,4 +103,5 @@ public class Pirate{
 
 ## RESULT:
 Thus, the program to implement conditional statements in Java was executed successfully.
+
 
