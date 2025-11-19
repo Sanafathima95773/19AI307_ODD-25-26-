@@ -22,6 +22,7 @@ Hello, Ajeesh
 
 
 ## AIM:
+To develop a Java program that receives a single string input (the customer's name) from the user and prints a personalized greeting message in the format "Hello, [name]"
 
 
 ## ALGORITHM :
@@ -81,3 +82,4 @@ public class Main {
 
 ## RESULT:
 The program successfully reads a name from the user and prints the message.
+
