@@ -10,6 +10,7 @@ To write a Java program that accepts a string from the user and prints the rever
 
 
 ## ALGORITHM :
+
 1.	Start the program.
 
 2 .Import the package java.util.Scanner.
@@ -66,5 +67,6 @@ public class ReverseString {
 
 ## RESULT:
 Thus, the Java program to reverse a given string was executed successfully and the reversed output was obtained.
+
 
 
