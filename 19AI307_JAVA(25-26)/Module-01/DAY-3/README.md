@@ -3,10 +3,6 @@
 ## QUESTION:
 Write a Java program to calculate the factorial of a number using a for loop. The factorial of n is the product of all positive integers less than or equal to n.
 
-For example:
-
-Input	Result
-0     Factorial of 0 is: 1
 
 
 ## AIM:
@@ -82,5 +78,6 @@ public class Factorial {
 
 ## RESULT:
 Thus, the program using looping statements in Java was successfully executed and the desired output was obtained.
+
 
 
