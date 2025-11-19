@@ -6,8 +6,7 @@ Write a Java program to calculate the factorial of a number using a for loop. Th
 For example:
 
 Input	Result
-0
-Factorial of 0 is: 1
+0     Factorial of 0 is: 1
 
 
 ## AIM:
@@ -83,4 +82,5 @@ public class Factorial {
 
 ## RESULT:
 Thus, the program using looping statements in Java was successfully executed and the desired output was obtained.
+
 
